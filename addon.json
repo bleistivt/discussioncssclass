@@ -1,0 +1,15 @@
+{
+    "name": "Discussion CSS Class",
+    "description": "Adds the category name to a discussions CSS class.",
+    "version": "0.1",
+    "mobileFriendly": true,
+    "license": "GNU GPL2",
+    "key": "discussioncssclass",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "Bleistivt",
+            "homepage": "http://bleistivt.net"
+        }
+    ]
+}
